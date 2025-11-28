@@ -14,8 +14,7 @@ This space is where I practice, grow, and build my journey as a future Front-End
 
 ### 📫 Contact Me
 
-[![Instagram](https://www.instagram.com/narges.tohidloo?igsh=MWl0Mmg3Ymx5ZmQ3bQ==)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/narges.tohidloo?igsh=MWl0Mmg3Ymx5ZmQ3bQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
 
