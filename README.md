@@ -62,11 +62,4 @@ Currently improving my skills by building real-world projects, exploring modern 
 </p>
 
 ---
-
-<p align="center">
-
-✨ Thanks for visiting my profile!
-
-<i>Code. Learn. Build. Repeat.</i> 🚀
-
-</p>
+<p align="center"> ✨ Thanks for visiting my profile! <i>"Every expert was once a beginner who never gave up."</i> 💙 </p>
