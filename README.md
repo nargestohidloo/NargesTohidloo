@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-## I'm Narges ✨
+# Hey, I'm Narges 👋
 
 ### 🌱 Front-End Developer in Progress
 
