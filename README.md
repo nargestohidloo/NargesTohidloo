@@ -23,13 +23,12 @@ Currently learning, building, and improving every day through real-world project
 ## 🛠 Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,git,github,vscode" />
-</p></p>
+</p>
 
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 </p>
----
 
 ## 🌍 Connect With Me
 
