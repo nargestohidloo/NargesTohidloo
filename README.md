@@ -27,25 +27,11 @@ Currently learning, building, and improving every day through real-world project
 
 ---
 
-## ⭐ Featured Projects
+## 🏆 GitHub Trophies
 
-<table>
-<tr>
-<td width="50%">
-
-### 🍔 Restaurant Website
-Modern responsive landing page built with React.
-
-</td>
-
-<td width="50%">
-
-### 🛒 E-Commerce
-Online shopping UI built with Next.js.
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nargestohidloo&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
