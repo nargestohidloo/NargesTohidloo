@@ -27,12 +27,25 @@ Currently learning, building, and improving every day through real-world project
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Featured Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nargestohidloo&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nargestohidloo&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🍔 Restaurant Website
+Modern responsive landing page built with React.
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce
+Online shopping UI built with Next.js.
+
+</td>
+</tr>
+</table>
 
 ---
 
