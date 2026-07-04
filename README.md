@@ -1,19 +1,91 @@
-## Hi there 👋
+# Hi there! <img src=" <img width="1919" height="775" alt="Screenshot 2026-07-04 015323" src="https://github.com/user-attachments/assets/ebdd4a27-1a28-4817-8110-a7806238cba8" />
+">
 
-I'm Narges ✨
-I'm currently learning Front-End development and exploring the world of HTML, CSS, JavaScript, and modern web design.
-I love creating simple, clean, and visually pleasing interfaces, and every day I'm learning something new to improve my skills.
-This space is where I practice, grow, and build my journey as a future Front-End Developer.
-✨ Step by step, I'm becoming better
-### 💻 Languages & Tools
+## I'm **Narges** ✨
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🌱 Front-End Developer in Progress
 
-### 📫 Contact Me
+I'm passionate about building **modern, responsive, and user-friendly** web applications.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/narges.tohidloo?igsh=MWl0Mmg3Ymx5ZmQ3bQ==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narges-tohidloo-4869b4391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naarges.tohidloo@gmail.com)
+Currently learning and growing with **HTML, CSS, JavaScript, Tailwind CSS, React, and Next.js**, while turning ideas into clean, interactive, and visually appealing experiences.
+
+I believe every project is another opportunity to learn, improve, and become a better developer.
+
+> **💙 Always learning. Always building.**
+
+---
+
+## 🚀 About Me
+
+* 💻 Front-End enthusiast
+* 🌱 Currently learning **Next.js**
+* ⚛️ Building projects with **React**
+* 🎨 Passionate about UI & UX
+* 📚 Learning by building real-world projects
+* ☕ Coffee + Code = Happiness
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,git,github,vscode,figma,vite" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nargestohidloo&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargestohidloo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nargestohidloo&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,typescript"/>
+
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/narges-tohidloo-4869b4391">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/narges.tohidloo">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:naarges.tohidloo@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ✨ Thanks for stopping by!
+
+**"Great things are built one commit at a time."** 🚀
+
+</p>
