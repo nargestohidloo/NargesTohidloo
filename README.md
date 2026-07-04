@@ -12,12 +12,11 @@ Currently learning, building, and improving every day through real-world project
 
 ## 🚀 About Me
 
-- 💻 Front-End Developer in Progress
-- 🌱 Currently learning Next.js
-- ⚛️ Building projects with React
-- 🎨 Interested in UI & Responsive Design
-- 📚 Learning by building real-world projects
-- 🎯 My goal is to become a professional Front-End Developer
+- 💻 Passionate about Front-End Development
+- ⚛️ Building interactive web applications with React & Next.js
+- 🎨 Creating clean, responsive, and user-friendly interfaces
+- 🌱 Continuously learning and improving through real-world projects
+- 🚀 Always exploring new technologies and best practices
 
 ---
 
