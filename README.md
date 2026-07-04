@@ -1,4 +1,4 @@
-# Hi there! <img src=" <img width="1919" height="775" alt="Screenshot 2026-07-04 015323" src="https://github.com/user-attachments/assets/ebdd4a27-1a28-4817-8110-a7806238cba8" />
+# Hi there!<img width="1919" height="775" alt="Screenshot 2026-07-04 015323" src="https://github.com/user-attachments/assets/ebdd4a27-1a28-4817-8110-a7806238cba8" />
 ">
 
 ## I'm **Narges** ✨
