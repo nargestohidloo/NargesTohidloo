@@ -43,23 +43,7 @@ Currently improving my skills by building real-world projects, exploring modern 
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/narges-tohidloo-4869b4391">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/narges.tohidloo">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:naarges.tohidloo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+## 🌍 Connect With Me <p align="center"> <a href="https://www.linkedin.com/in/narges-tohidloo-4869b4391"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/narges.tohidloo"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="mailto:naarges.tohidloo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> ---
 
 ---
 <p align="center"> ✨ Thanks for visiting my profile! <i>"Every expert was once a beginner who never gave up."</i> 💙 </p>
