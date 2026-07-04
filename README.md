@@ -28,7 +28,7 @@ I enjoy turning ideas into clean, interactive, and visually appealing experience
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,git,github,vscode" />
 </p>
 
 ---
