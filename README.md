@@ -20,10 +20,10 @@ Currently learning, building, and improving every day through real-world project
 
 ---
 
-## 🛠 Tech Stack
-
+## 🛠 Technologies & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,typescript,nodejs,git,github,vscode" /></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,git,github,vscode" />
+</p></p>
 
 ---
 
