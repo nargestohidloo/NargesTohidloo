@@ -30,6 +30,9 @@ Currently improving my skills by building real-world projects, exploring modern 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 </p>
 
+---
+
+
 ## 📌 Current Focus
 
 - 🌱 Learning Next.js
