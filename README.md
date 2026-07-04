@@ -28,7 +28,9 @@ Currently learning, building, and improving every day through real-world project
 ---
 
 ## 🏆 GitHub Trophies
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=180&section=header&text=Narges&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
