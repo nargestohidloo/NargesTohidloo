@@ -30,7 +30,7 @@ Currently learning, building, and improving every day through real-world project
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nargestohidloo&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
 
 ---
