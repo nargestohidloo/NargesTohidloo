@@ -2,9 +2,9 @@
 
 ### 🌱 Front-End Developer in Progress
 
-Passionate about creating modern, responsive, and user-friendly web experiences with **HTML, CSS, JavaScript, React, and Next.js**.
+Passionate about building modern, responsive, and user-friendly web experiences with **HTML, CSS, JavaScript, React, and Next.js**.
 
-Every project is an opportunity to learn, improve, and transform ideas into clean, interactive interfaces.
+Currently learning, building, and improving every day through real-world projects and continuous practice.
 
 > ✨ *Learning, building, and growing—one project at a time.*
 
