@@ -2,11 +2,11 @@
 
 ### 🌱 Front-End Developer in Progress
 
-I build modern, responsive, and user-friendly web interfaces using **HTML, CSS, JavaScript, React, and Next.js**.
+Passionate about creating modern, responsive, and user-friendly web experiences with **HTML, CSS, JavaScript, React, and Next.js**.
 
-Driven by curiosity and a passion for clean design, I'm constantly learning, experimenting, and creating projects that challenge me to become a better developer every day.
+Every project is an opportunity to learn, improve, and transform ideas into clean, interactive interfaces.
 
-> ⚡ *Building today. Improving forever.*
+> ✨ *Learning, building, and growing—one project at a time.*
 
 ---
 
