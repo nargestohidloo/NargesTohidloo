@@ -4,7 +4,7 @@
 
 Passionate about building modern, responsive, and user-friendly web experiences with **HTML, CSS, JavaScript, React, and Next.js**.
 
-Currently learning, building, and improving every day through real-world projects and continuous practice.
+Currently improving my skills by building real-world projects, exploring modern technologies, and writing cleaner code every day.
 
 > ✨ *Learning, building, and growing—one project at a time.*
 
@@ -14,9 +14,9 @@ Currently learning, building, and improving every day through real-world project
 
 - 💻 Passionate about Front-End Development
 - ⚛️ Building interactive web applications with React & Next.js
-- 🎨 Creating clean, responsive, and user-friendly interfaces
-- 🌱 Continuously learning and improving through real-world projects
-- 🚀 Always exploring new technologies and best practices
+- 🎨 Focused on clean UI and responsive design
+- 🌱 Learning by building real-world projects
+- 🚀 Always curious about new technologies
 
 ---
 
@@ -29,6 +29,13 @@ Currently learning, building, and improving every day through real-world project
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 </p>
+
+## 📌 Current Focus
+
+- 🌱 Learning Next.js
+- ⚛️ Building React projects
+- 🎨 Improving UI & Responsive Design
+- 💡 Writing cleaner and more maintainable code
 
 ## 🌍 Connect With Me
 
