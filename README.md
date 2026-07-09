@@ -23,7 +23,7 @@ Currently improving my skills by building real-world projects, exploring modern 
 ## 💻 Technologies I Work With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,github,vscode" />
 </p>
 
 ---
